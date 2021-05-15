@@ -11,7 +11,7 @@
     "start": "vue ui"
   },
   "dependencies": {
-    "core-js": "^2.6.5",
+    "core-js": "2.6.12",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vuetify": "^1.5.5",
